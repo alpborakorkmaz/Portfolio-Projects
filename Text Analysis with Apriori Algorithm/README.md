@@ -1,4 +1,4 @@
-# Data Analysis with Apriori Algorithm
+# Text Analysis with Apriori Algorithm
 
 This project aims to perform a word-based frequency analysis using the **Apriori Algorithm**. **Apriori** is a widely used algorithm for discovering relational rules in large datasets. In this project, patterns of specific words that are frequently used together are examined and analyzed.
 
